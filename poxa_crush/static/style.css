@@ -1,0 +1,18 @@
+body{
+    background-color: violet;
+}
+img{
+    width: 150px;
+
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    alig
+}
+.card{
+    height: 200px;
+}
+.card:hover{
+    box-shadow: 2px 2px 8px black;
+}
